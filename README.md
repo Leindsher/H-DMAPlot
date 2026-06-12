@@ -1,6 +1,7 @@
 # H-DMAPlot
 
 **GUI tool for Dynamic Mechanical Analysis (DMA) data visualization and processing**
+
 Note: The software interface and menus are currently available only in Portuguese (Brazilian Portuguese).
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
